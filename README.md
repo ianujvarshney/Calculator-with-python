@@ -14,7 +14,7 @@
 
 <h2>Used Library and Function</h2>
 
-|Labels|Name|
-|-----|-----|
-|![svg imae](https://img.shields.io/badge/math-1-yellow)|math|
-|[![SVG IMAGE](https://img.shields.io/github/stars/Anujbhai-1997/Calculator-with-python?color=blue&label=tkinter%20library&logo=python&logoColor=green&style=flat-square)](https://github.com/Anujbhai-1997/Calculator-with-python/edit/master/README.md)|tkinter|
+|Labels |Name |Discription |
+|-----|-----|-----|
+|![svg imae](https://img.shields.io/badge/math-1-yellow)|Math|Python math Module. Python has a built-in module that you can use for mathematical tasks. The math module has a set of methods and constants.|
+|[![SVG IMAGE](https://img.shields.io/github/stars/Anujbhai-1997/Calculator-with-python?color=blue&label=tkinter%20library&logo=python&logoColor=green&style=flat-square)](https://github.com/Anujbhai-1997/Calculator-with-python/edit/master/README.md)|tkinter|The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, as well as on Windows systems.|
