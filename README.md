@@ -10,13 +10,14 @@
 [![GitHub: Anujbhai-1997](https://img.shields.io/github/followers/Anujbhai-1997?label=follow&style=social)](https://github.com/Anujbhai-1997)
 [![website: Newstechnews](https://img.shields.io/badge/Website-Newstechnews.in-2648ff?style=flat-square&logo=google-chrome)](https://www/newstechnews.in/)
 
-<h1>Scientific Calculator : make your work eassy <h1/>
-  <p>
+<h1>Scientific Calculator : make your work eassy </h1>
+ <p>
 In this project of Face Detector I used some Basic function which
 is help me to collected data in some numeric form and some
 operation are decided the results. In this i also using some
 header and of standard for help in to created operations.
-    </p>
+</p>
+  
 <h2>Used Library and Function</h2>
 
 |Labels |Name |Discription |
