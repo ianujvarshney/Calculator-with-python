@@ -10,12 +10,6 @@
 [![website: Newstechnews](https://img.shields.io/badge/Website-Newstechnews.in-2648ff?style=flat-square&logo=google-chrome)](https://www/newstechnews.in/)
 
 <h1>Scientific Calculator : make your work eassy </h1>
- <p>
-In this project of Face Detector I used some Basic function which
-is help me to collected data in some numeric form and some
-operation are decided the results. In this i also using some
-header and of standard for help in to created operations.
-</p>
 
 <h2>Uses Module for Operations</h2>
  
